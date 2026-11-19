@@ -68,9 +68,9 @@ The table below catalogs premier commercial SaaS solutions for brand copywriting
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the most prominent self-hosted frontends, deep-research engines, narrative worldbuilding tools, and local LLM runtimes. Repositories are ranked descending by GitHub star count.
+Explore the most prominent self-hosted frontends, deep-research engines, narrative worldbuilding tools, and local LLM runtimes. Repositories are ranked descending by GitHub Stars_Count.
 
-| Project & Repo | Stars | License | Primary Category | Core Capabilities & Description |
+| Project & Repo | GitHub_Stars | License | Primary Category | Core Capabilities & Description |
 |:---|:---:|:---:|:---:|:---|
 | **[Ollama](https://github.com/ollama/ollama)**<br/>`ollama/ollama` | [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) | `MIT` | Local LLM Runtime | The standard developer runtime for running instruction-tuned creative writing and coding models (`Llama 3.3`, `Mistral`, `Gemma 2`, `Qwen 2.5`) locally on macOS, Linux, and Windows. |
 | **[Dify](https://github.com/langgenius/dify)**<br/>`langgenius/dify` | [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) | `AGPL-3.0` | Workflow Studio | Self-hostable LLM application development platform ideal for orchestrating custom Brand Voice copywriting pipelines, prompt visual testing, and production content micro-apps. |
@@ -138,7 +138,7 @@ We welcome additions, fixes, and ecosystem updates from authors, marketers, and 
 2. 🌿 **Create a descriptive branch** (`git checkout -b add-my-writing-tool`).
 3. 📝 **Add your entry** to the appropriate table or section following the established format:
    - For SaaS tools: include verified starting tier pricing and specific free trial / free tier terms.
-   - For Open-Source tools: include GitHub repository link, license, category, and star badge.
+   - For Open-Source tools: include GitHub repository link, license, category, and Stars_Badge.
 4. 🚀 **Submit a Pull Request** explaining what the tool does and why it benefits the creative writing and copywriting ecosystem.
 
 ---
